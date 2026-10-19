@@ -1,0 +1,9 @@
+Package: com.yourname.gesturex
+Name: GestureX
+Version: 1.0
+Architecture: iphoneos-arm
+Description: iPhone X gestures for iPhone 5 iOS 8.4.1
+Maintainer: YourName
+Author: YourName
+Section: Tweaks
+Depends: mobilesubstrate
